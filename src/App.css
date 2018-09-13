@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans|Amatic+SC|Bangers|Cabin+Sketch|Gamja+Flower|M+PLUS+1p|Montserrat|News+Cycle|Poiret+One|Shadows+Into+Light+Two|Slabo+27px');
+
+.App{
+    font-family: 'News Cycle', sans-serif;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+.game-title{
+    font-size: 60px;
+}
+
+input{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+button{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}

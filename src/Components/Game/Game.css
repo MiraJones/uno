@@ -1,0 +1,70 @@
+
+.card, .card-wild{
+    height: 240px;
+    width: 170px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 10px;
+    color: white;
+    box-shadow: 10px 5px 5px gray;
+    border: 3px solid white;
+    font-family: 'Bangers', cursive;
+}
+
+.card-wild{
+    background: linear-gradient(to right bottom, #253068, #FC8BAE, #FFE777, #FF7349)
+}
+
+.left-corner{
+    box-sizing: border-box;
+    margin: 20px;
+    font-size: 25px;
+}
+
+.middle{
+    display: flex;
+    font-size: 55px;
+    justify-content: center;
+    color: black;
+}
+
+.middle-circle{
+    display: flex;
+    height: 50%;
+    width: 100%;
+    border-radius: 50%;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    border: 2px black;
+}
+
+
+.right-corner{
+    display: flex;
+    justify-content: flex-end;
+    box-sizing: border-box;
+    margin: 20px;
+    font-size: 25px;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+/* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Gamja Flower', cursive; */
+/* font-family: 'Slabo 27px', serif; */
+/* font-family: 'Amatic SC', cursive; */
+/* font-family: 'M PLUS 1p', sans-serif; */
+/* font-family: 'Alegreya Sans', sans-serif; */
+/* font-family: 'News Cycle', sans-serif; */
+/* font-family: 'Poiret One', cursive; */
+
+/* font-family: 'Bangers', cursive;
+font-family: 'Cabin Sketch', cursive;
+font-family: 'Shadows Into Light Two', cursive; */
